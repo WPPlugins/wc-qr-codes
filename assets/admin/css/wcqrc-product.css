@@ -1,0 +1,14 @@
+.wcqrc-refresh{ 
+    float:right; 
+}
+.wcqrc-refresh:before{
+    padding-top:3px; 
+}
+.product-qr-code-img{
+    max-width: 100%;
+}
+.product-qr-code-container{
+    text-align:center;
+    width: 100%;
+    clear: both;
+}
